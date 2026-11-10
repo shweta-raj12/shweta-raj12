@@ -1,35 +1,49 @@
-<h1 align="center">Hi 👋, I'm Shweta Raj</h1>
-<h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shweta-raj12" alt="shweta-raj12" /></a> </p>
+# Hi, I'm Shweta Raj 👋
 
-- 🔭 I’m currently working on **Artificial Intelligence, Python, Java and Web Technologies**
+### Aspiring Software Engineer | Full-Stack Developer | MCA (AI & ML)
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+I'm a BCA graduate currently pursuing MCA in
+Artificial Intelligence & Machine Learning.
 
-- 👯 I’m looking to collaborate on **C++ Programming, Softwere Development and web dev**
+I enjoy building practical software applications,
+solving programming problems and learning how
+technology can solve real-world problems.
 
-- 🤝 I’m looking for help with **Website Building**
+### 🚀 What I'm Working On
+- Building full-stack web applications
+- Strengthening Data Structures & Algorithms
+- Learning React.js, Node.js and backend development
+- Improving my problem-solving and software design skills
 
-- 💬 Ask me about **Anything**
+### 💻 Technical Skills
 
-- 📫 How to reach me **shwetaraj532@gmail.com**
+**Languages:** JavaScript, Python, Java, C, C++, SQL
 
-- ⚡ Fun fact **Just imagine that I'm funny**
+**Frontend:** HTML5, CSS3, JavaScript, React.js
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/connectshwetataj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/connectshwetataj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@life_codes?si=03a9626g2efvirwm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@life_codes?si=03a9626g2efvirwm" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shwetarmlwn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/shwetarmlwn" height="30" width="40" /></a>
-</p>
+**Backend:** Node.js, Express.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+**Database:** PostgreSQL, MySQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shweta-raj12&show_icons=true&locale=en&layout=compact" alt="shweta-raj12" /></p>
+**Tools:** Git, GitHub, VS Code, Postman
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shweta-raj12&show_icons=true&locale=en" alt="shweta-raj12" /></p>
+**Core Concepts:** DSA, OOP, DBMS, Operating Systems,
+Computer Networks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shweta-raj12&" alt="shweta-raj12" /></p>
+### 📌 Featured Projects
+- PG-Life – Frontend Web Application
+- Job Application Tracker – Coming soon
+- Task Management System – Coming soon
+
+### 🎓 Education
+- MCA – AI & Machine Learning (2026–2028)
+- BCA – Completed (2026)
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/connectshwetataj
+- GitHub: https://github.com/shweta-raj12
+- Email: shwetaraj532@gmail.com
+
+I'm open to entry-level Software Engineer,
+Junior Developer and internship opportunities.
